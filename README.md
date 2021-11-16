@@ -19,3 +19,7 @@
 ## Other information
 
 **Note:** This repository follows the Research repository template, v.2.2, see [further information offline](.doc/information.md) or [the online documentation page](https://gin-tonic.netlify.app/).
+
+## Synchronisation scripts
+
+Scripts were added to make updates with gin easier, please visit https://github.com/tonic-team/synchronisation_scripts for information about how to use it/them.
