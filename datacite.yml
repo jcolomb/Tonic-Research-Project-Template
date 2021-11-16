@@ -7,12 +7,6 @@
 # if possible, including the prefix to indicate its type.
 authors:
   -
-    firstname: "Keisuke"
-    lastname: "Sehara"
-    affiliation: "Institut für Biologie, Neurocure Center for Excellence, Chariteplatz 1 / Virchowweg 6, Charité Universitätsmedizin Berlin & Humboldt Universität, Berlin, 10117 Germany."
-    id: "ORCID:0000-0003-4368-8143"
-    role: "Data curation"
-  -
     firstname: "Matthew E."
     lastname: "Larkum"
     affiliation: "Institut für Biologie, Neurocure Center for Excellence, Chariteplatz 1 / Virchowweg 6, Charité Universitätsmedizin Berlin & Humboldt Universität, Berlin, 10117 Germany."
